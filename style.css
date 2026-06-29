@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    font-size: 60px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 8px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+button:hover{
+    transform: scale(1.05);
+}
+#count{
+    font-size: 70px;
+    font-weight: bold;
+}
